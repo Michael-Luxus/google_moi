@@ -1,0 +1,229 @@
+
+
+
+
+
+#menu_care {
+    justify-content:flex-end
+}
+
+
+a {
+    text-decoration: none;
+    color: #000;
+}
+
+a:hover { 
+    text-decoration: underline;
+}
+
+#pay {
+    position: absolute;
+    bottom: 19px;
+    left: 0px;
+    background-color: #f3f3f3;
+    padding-right: 100%;
+    padding-top: 11px;
+    padding-bottom: 26px;
+    border-bottom: solid 1px #e3e3e3;
+    border-top: solid 1px #e3e3e3;
+
+}
+
+#pay:hover {
+    cursor: text;
+}
+
+#mada {
+    color: #1a0dab
+}
+
+#barre {
+    text-align: right
+}
+
+
+
+#connexion {
+    color: white;
+    background-color: #4285f4;
+    border: none;
+    border-radius: 2px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    font-size: 12px;
+    font-weight: bold;
+    cursor: default;
+}
+
+
+
+#logo7 {
+    width: 24px;
+    margin-bottom: -7px;
+    margin-right: 12px;
+}
+
+
+
+#bouton1 {
+    border: none;
+    background-color: transparent;
+}
+
+#bouton2 {
+    border: none;
+    background-color: transparent;
+}
+
+#bouton3 {
+    border: none;
+    background-color: transparent;
+}
+
+#boutona {
+    border: none;
+    background-color: transparent;
+}
+
+#boutonb {
+    border: none;
+    background-color: transparent;
+}
+
+#boutonc {
+    border: none;
+    background-color: transparent;
+}
+
+#boutone {
+    border: none;
+    padding-left: 29px;
+    background-color: transparent;
+}
+
+.colp2 {
+    display: flex;
+    justify-content:flex-end;
+    float: right;
+        
+    position: absolute;
+    bottom: -23px;
+    right: 0px;
+    background-color: #f3f3f3;
+    padding-right: 25px;
+    padding-left: 4%;
+    padding-top: 8px;
+    padding-bottom: 14px;
+    border-top: solid 1px #e3e3e3;
+}
+
+.colp {
+    
+    display: flex;
+    justify-content: flex-start;
+    float: left;
+
+        position: absolute;
+    left: 0px;
+    
+    background-color: #f3f3f3;
+    
+
+        
+    bottom: -23px;
+    padding-right: 60%;
+    padding-top: 8px;
+    padding-bottom: 14px;
+    padding-left: 23px;
+    border-top: solid 1px #e3e3e3;
+    
+}
+
+
+
+
+
+.conteneur {
+/*    position: absolute;*/
+    bottom: 40px;
+/*    left: 0px;*/
+    background-color: #f3f3f3;
+/*    padding-right: 100%;*/
+/*    padding-top: 11px;*/
+/*    padding-bottom: 11px;*/
+/*    border-bottom: solid 1px #e3e3e3;*/
+    border-top: solid 1px #e3e3e3;
+}
+
+
+
+#barres {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 590px;
+    left: 50%;
+    right: 50%;
+    padding-top: 26px;
+    margin-top: 23px;
+    border: none;
+box-shadow: 0px 5px 13px 2px #cccccc;
+}
+
+#logo {
+    text-align: -webkit-center;
+    padding-top: 138px;
+    
+}
+
+
+
+
+
+
+
+#bouttonAll {
+       text-align: -webkit-center;
+    padding-top: 27px;
+    
+ 
+    
+}
+
+
+
+
+
+
+
+#droite1 {
+        color: #585858;
+    border: none;
+    font-weight: bold;
+    padding-top: 11px;
+    padding-bottom: 8px;
+    padding-left: 17px;
+    padding-right: 17px;
+    margin-left: 5px;
+    background-color: #f0f0f0
+}
+
+#gauche1 {
+    color: #6f6f6f;
+    border: none;
+    font-weight: bold;
+    padding-top: 11px;
+    padding-bottom: 8px;
+    padding-left: 17px;
+    padding-right: 17px;
+    background-color: #f0f0f0;
+    
+}
+
+#version {
+       text-align: -webkit-center;
+    padding-top: 27px;
+}
